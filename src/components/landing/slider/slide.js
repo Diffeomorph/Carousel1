@@ -1,3 +1,6 @@
+import React, { Component } from 'react';
+import landingData from './components/landing';; //potential problem
+
 class Slide extends Component {
     constructor(props) {
       super(props);
