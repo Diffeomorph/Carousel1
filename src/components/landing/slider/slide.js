@@ -1,5 +1,7 @@
 import React, { Component } from 'react';
-import landingData from './components/landing';; //potential problem
+import landingData from '../Landing';
+//import Library from '../../library/Library';
+import './main.css';
 
 class Slide extends Component {
     constructor(props) {
